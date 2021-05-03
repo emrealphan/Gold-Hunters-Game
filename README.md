@@ -1,6 +1,6 @@
 # AltinBulma
 
-Proje Grup Üyeleri : Poyraz Aktaş - 180201109, Emre Alphan - 180201052
+Proje Grup Üyeleri : Emre Alphan , Poyraz Aktaş
 
 Proje Çalışma Aşamaları:
 
