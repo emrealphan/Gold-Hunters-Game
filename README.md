@@ -43,3 +43,5 @@ projenin diğer isterlerini gözlemlemek için yeterli olmamasından kaynaklıd�
 Satır sayısı, sütün sayısı ve altın sayısında yapılan değişiklerin ENTER' lenmesi önemlidir.
 
 Projedeki oyun tahtasını boyutlarını arttırdıkça, oyuncu ikonları panelden taşmamak için küçülecektir.
+
+[Oyun Kuralları](https://www.resimupload.org/r/j5ZEw)
