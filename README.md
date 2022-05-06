@@ -2,6 +2,8 @@
 
 Proje Grup Üyeleri : Emre Alphan , Poyraz Aktaş
 
+Bu projenin amacı neredeyse her değişkenin değiştirilebilir olduğu dinamik bir ortamda farklı özelliklere sahip arama algoritmalarının birbirine karşı etkinliğinin izlenmesidir.
+
 Proje Çalışma Aşamaları:
 
 Herhangi bir Java IDE' sinde projeyi çalıştırabilirsiniz.
