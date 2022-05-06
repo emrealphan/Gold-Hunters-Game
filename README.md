@@ -1,4 +1,4 @@
-# AltinBulma
+# Altın Avcıları Oyunu
 
 Proje Grup Üyeleri : Emre Alphan , Poyraz Aktaş
 
