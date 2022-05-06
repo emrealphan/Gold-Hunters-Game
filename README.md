@@ -15,7 +15,7 @@ Varsayılan parametreleri değiştirmek için, Ayarlar butonuna tıklayınız.
 Satır ve sütünda yapacağınız değişikliklerin, altın sayısı ve gizli altına doğrudan
 etkisi olduğu için yaptığınız değişiklikten sonra ENTER'e basınız.
 
-Altın sayısında yapacağınız değişikliklerin, gizli altın sayısına doğrudan, 
+Altın sayısında yapacağınız değişikliklerin, gizli altın sayısına doğrudan 
 etkisi olduğu için yaptığınız değişiklikten sonra ENTER'e basınız.
 
 Tüm yapılan değişiklikleri kaydetmek için, KAYDET butonuna tıklayınız.
@@ -40,6 +40,6 @@ Projedeki hamle başına düşen altın sayısı, oyuncunun her adım atışınd
 düzenlenmiştir. Bu düzenleme, yapılan gözlemlerde çoğu zaman tahtada altın kalmadan biten oyunların
 projenin diğer isterlerini gözlemlemek için yeterli olmamasından kaynaklıdır.
 
-Satır sayısı, sütün sayısı ve altın sayısında yapılan değişiklerin ENTER' lenmesi elzemdir.
+Satır sayısı, sütün sayısı ve altın sayısında yapılan değişiklerin ENTER' lenmesi önemlidir.
 
 Projedeki oyun tahtasını boyutlarını arttırdıkça, oyuncu ikonları panelden taşmamak için küçülecektir.
