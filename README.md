@@ -44,4 +44,4 @@ Satır sayısı, sütün sayısı ve altın sayısında yapılan değişiklerin 
 
 Projedeki oyun tahtasını boyutlarını arttırdıkça, oyuncu ikonları panelden taşmamak için küçülecektir.
 
-[Oyun Kuralları](https://www.resimupload.org/r/j5ZEw)
+[Oyun Kuralları](https://www.resimupload.org/images/2022/05/06/imagedceefc83b359a1e6.png)
